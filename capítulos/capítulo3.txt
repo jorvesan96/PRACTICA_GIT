@@ -1,0 +1,1 @@
+Git premite la creación de ramas lo que permite tener distintas versiones del mismo poryecto y trabajar de manera simuñtánea en ellas.
